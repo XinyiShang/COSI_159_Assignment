@@ -22,7 +22,7 @@ https://github.com/XinyiShang/COSI_159_04
 #### Understand the fairness in the models and evluate the bias of the *DeepFace* model. 
 
 ## Final Project
-https://github.com/XinyiShang/COSI_159_04
+https://github.com/XinyiShang/COSI159_PruningImprovement
 
 #### Improve based on "Pruning Filters For Efficient ConvNets"
 #### Tryed to add Drop-Out, change to VGG-19, and add quantization. 
